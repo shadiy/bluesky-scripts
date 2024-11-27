@@ -6,7 +6,7 @@ Requiers atproto
 pip install atproto
 ```
 
-You can add -h optional argument to all scripts to see hoe to use them
+You can add -h optional argument to all scripts to see how to use them
 
 To not get rate limited use session token optional arguments
 ```
